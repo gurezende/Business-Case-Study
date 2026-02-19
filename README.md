@@ -64,7 +64,7 @@ The strategic recommendation is to leverage Center A's success by analyzing and 
   * Donations: Center A (6.26%), Center B (12.02%), Center C (13.95%).
   * Costs: Center A (6.10%), Center B (11.85%), Center C (15.58%).
 
-### Insights or Next Steps
+## Insights or Next Steps
 
 *   **Strategic Compensation Review**: Evaluate the cost-per-donation for each center. Consider piloting Center A's compensation structure or elements thereof in Centers B and C to assess its impact on donation volumes and overall cost-effectiveness, while also optimizing second donation incentives.
 *   **Advanced Analytics**: Implement detailed donor segmentation, explore the impact of external factors on donation behavior, and conduct causal inference studies to understand the direct effect of compensation changes versus other confounding variables.
